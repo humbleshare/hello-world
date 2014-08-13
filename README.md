@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+Hi Humans!
+
+I'm Thomas, and I like web design. I code with HTML, CSS and JS.
